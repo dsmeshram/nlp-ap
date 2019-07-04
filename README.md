@@ -6,7 +6,8 @@ request struture:
 
 type: all/nouns/verbs/entities
 
-entiries:
+entities:
+
 <table>
 	<tr>
 		<td>TYPE</td>
@@ -44,7 +45,7 @@ entiries:
 		<td>EVENT</td>
 		<td>Named hurricanes, battles, wars, sports events, etc.</td>
 	</tr>
-		<tr>
+	<tr>
 		<td>WORK_OF_ART</td>
 		<td>Titles of books, songs, etc.</td>
 	</tr>
@@ -62,8 +63,7 @@ entiries:
 	</tr>
 	<tr>
 		<td>TIME</td>
-		<td>Times smaller than a day.
-		</td>
+		<td>Times smaller than a day.</td>
 	</tr>
 	<tr>
 		<td>PERCENT</td>
@@ -86,8 +86,10 @@ entiries:
 		<td>Numerals that do not fall under another type</td>
 	</tr>
 	
-	</table>
+</table>
 
 example:
 <host>/nlp/EntityRecognizer/all/The Wildlife Protection Act, 1972 is an Act of the Parliament of India enacted for protection of plants and animal species
+	
+	
 
