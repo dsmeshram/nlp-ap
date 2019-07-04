@@ -1,5 +1,5 @@
 # nlp-api
-natural language processing api for the processing the language and convert into meaning full information.
+Natural language processing api for the processing the language and convert into meaning full information.
 
 request struture:
 <host>/nlp/EntityRecognizer/<type>/<sentence>
