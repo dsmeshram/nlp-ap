@@ -2,7 +2,7 @@
 Natural language processing api for the processing the language and convert into meaning full information.
 
 request struture:
-<host>/nlp/EntityRecognizer/<type>/<sentence>
+<host>/nlp/EntityRecognizer/type/sentence
 
 type: all/nouns/verbs/entities
 
